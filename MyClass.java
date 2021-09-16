@@ -12,9 +12,6 @@ public class MyClass {
         this.randomChild = randomChild;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
 
     @Override
     public String toString() {
